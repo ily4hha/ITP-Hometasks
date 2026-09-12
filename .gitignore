@@ -1,6 +1,10 @@
 # Compiled files
 main
 *.out
+*.o
+*.a
+*.dylib
+build/
 
 # macOS / Clang debug files
 *.dSYM/

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "macOS ARM64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
