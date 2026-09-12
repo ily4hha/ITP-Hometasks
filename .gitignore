@@ -1,0 +1,9 @@
+# Compiled files
+main
+*.out
+
+# macOS / Clang debug files
+*.dSYM/
+
+# macOS
+.DS_Store
