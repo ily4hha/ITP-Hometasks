@@ -11,3 +11,28 @@ build/
 
 # macOS
 .DS_Store
+
+# Local archive (contains a separate historical checkout)
+/PAST/
+
+# Java build output
+*.class
+*.jar
+out/
+bin/
+target/
+
+# Local IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Only current Java homework folders
+/javatasks/*
+!/javatasks/week6/
+!/javatasks/week9/
